@@ -153,10 +153,3 @@ if __name__ == "__main__":
     t3.join()
     t4.join()
     t5.join()
-
-
-
-
-
-
-
